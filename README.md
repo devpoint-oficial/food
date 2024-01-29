@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devpoint-oficial/teste/blob/master/src/assets/logo.png" width="150">  
+  <img src="https://github.com/devpoint-oficial/food/blob/master/src/assets/logo.png" width="150">  
 </p>
 
 <p align="center">
